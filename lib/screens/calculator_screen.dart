@@ -43,7 +43,7 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
               ),
             ),
             const YMargin(20),
-
+        
             // First Row
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
@@ -91,7 +91,7 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
               ],
             ),
             const YMargin(20),
-
+        
             // Second Row
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
@@ -139,7 +139,7 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
               ],
             ),
             const YMargin(20),
-
+        
             // Third Row
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
@@ -187,7 +187,7 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
               ],
             ),
             const YMargin(20),
-
+        
             // Fourth Row
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
@@ -235,7 +235,7 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
               ],
             ),
             const YMargin(20),
-
+        
             // Fifth Row
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
